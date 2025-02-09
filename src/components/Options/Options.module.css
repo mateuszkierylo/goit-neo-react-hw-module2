@@ -1,0 +1,16 @@
+.wrraper {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 25px;
+}
+
+.btn {
+  text-transform: capitalize;
+  border-radius: 4px;
+  padding: 6px 10px;
+}
+
+.btn:hover {
+  background-color: rgb(188, 223, 243);
+  color: rgb(13, 56, 40)
+}
